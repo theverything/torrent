@@ -1,6 +1,6 @@
 {
   "name": "@theverything/torrent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple cli tool to down load a torrent.",
   "main": "index.js",
   "scripts": {
